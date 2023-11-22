@@ -1,1 +1,3 @@
-# practise_work_10
+# Little practise
+learning some C#
+:3
